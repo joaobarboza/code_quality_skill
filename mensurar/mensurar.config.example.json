@@ -1,0 +1,13 @@
+{
+  "_leia_me": "Copie este arquivo para 'mensurar.config.json' na raiz do repositorio que voce vai medir (nao na pasta da skill). Todas as chaves sao opcionais — omita o que nao quiser sobrescrever. Ver README.md, secao Configuracao.",
+
+  "base_branch": "main",
+
+  "loc_thresholds": {
+    "warn": 400,
+    "refactor": 1000
+  },
+
+  "dependency_graphs": {
+  }
+}
